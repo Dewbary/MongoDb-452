@@ -1,5 +1,4 @@
 const { MongoClient } = require("mongodb");
-// Replace the uri string with your MongoDB deployment's connection string.
 
 const username = encodeURIComponent("bdewberry99");
 const password = encodeURIComponent("*Moroni10:5");
